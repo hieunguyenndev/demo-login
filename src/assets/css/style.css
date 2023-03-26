@@ -1,0 +1,23 @@
+.form--input {
+    border: 0.1px solid #dadce0;
+    font-size: 17px;
+    padding: 13px 15px;
+}
+
+.form--input::placeholder {
+    color: #5f6368;
+}
+
+.form--input:focus-visible {
+    outline: solid 2px #1a73e8 !important;
+}
+
+.text-black {
+    color: #202124;
+}
+.text-gray {
+    color: #5f6368;
+}
+.text-pri {
+    color: #1a73e8;
+}
